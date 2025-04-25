@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning:<br>- CI/CD Pipelines<br>- Data Structures & Algorithms <br>- React</p>
+<p align="left">📚 I'm currently learning:<br>- CI/CD Pipelines<br>- Typescript <br>- React</p>
 
 ###
 
