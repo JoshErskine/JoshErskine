@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a passionate learner and software engineer based in London, working in fintech. Experienced in C# and .NET Core development.</p>
+<p align="left">I'm a passionate learner and Software Engineer based in London, working in fintech. Experienced in C# and .NET Core development.</p>
 
 ###
 
@@ -18,11 +18,11 @@
 
 ###
 
-<p align="left">🍹 Siplogy<br>- Personal project where I'm building a comprehensive Cocktail app. The goal is to offer users an intuitive way to discover and mix their favourite cocktails.<br><br>🌄 New Zealand Walks<br>- ASP.NET Core Web API, focused on showcasing various walking trails across New Zealand. This app aims to provide detailed information about each trail, making it easier for enthusiasts to explore the outdoors!</p>
+<p align="left">☁️ Azure E-Commerce Project<br>- A cloud-native e-commerce backend built on Microsoft Azure, developed as a portfolio project while studying for AZ-204.</p>
 
 ###
 
-<h2 align="left">Currently learning and working with:</h2>
+<h2 align="left">Stack:</h2>
 
 ###
 
@@ -41,7 +41,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
 ###
