@@ -16,7 +16,7 @@ infrastructure as code.
 Currently expanding into AI-integrated cloud architecture using Azure OpenAI
 Service, Azure AI Search, and Claude Code.
 
-**AZ-900 certified · HashiCorp Certified: Terraform Associate (003) · AZ-204 in progress · Targeting AZ-305**
+**AZ-900 certified · HashiCorp Certified: Terraform Associate (003) · AZ-204 in progress**
 
 ---
 
