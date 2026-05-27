@@ -26,7 +26,7 @@ Service, Azure AI Search, and Claude Code.
 ### ☁️ Azure E-Commerce Platform *(in progress)*
 > Cloud-native e-commerce backend · C# / .NET 8 · Microsoft Azure
 
-A production-grade multi-service platform built as a portfolio project,
+A production-grade multi-service platform built as a portfolio project alongside my AZ-204 studies,
 covering the full cloud engineering stack:
 
 - **REST API** - App Service, Cosmos DB, Azure SQL, Key Vault,
