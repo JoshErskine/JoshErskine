@@ -2,7 +2,6 @@
 
 <p align="left">
   <b>C# · .NET · Microsoft Azure · DevOps · AI Integration</b><br/>
-  Based in London 
 </p>
 
 ---
