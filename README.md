@@ -16,7 +16,7 @@ infrastructure as code.
 Currently expanding into AI-integrated cloud architecture using Azure OpenAI
 Service, Azure AI Search, and Claude Code.
 
-**AZ-900 certified · AZ-204 in progress · Targeting AZ-305**
+**AZ-900 certified · HashiCorp Certified: Terraform Associate (003) · AZ-204 in progress · Targeting AZ-305**
 
 ---
 
@@ -86,7 +86,8 @@ Prompt engineering
 
 | Certification | Status |
 |---|---|
-| AZ-900 Microsoft Azure Fundamentals | ✅ Certified |
+| [AZ-900 Microsoft Azure Fundamentals](https://learn.microsoft.com/en-gb/users/joshuaerskine-8816/credentials/cc4d3d20e6857fd1) | ✅ Certified |
+| [HashiCorp Certified: Terraform Associate (003)](https://www.credly.com/badges/20e3eb07-53dc-4f65-b924-77f253867fcf) | ✅ Certified |
 | AZ-204 Azure Developer Associate | 🔄 In progress |
 | AZ-305 Azure Solutions Architect Expert | 📅 Planned 2026 |
 
