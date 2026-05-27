@@ -1,61 +1,115 @@
-<h1 align="left">Welcome to my GitHub Profile 👋</h1>
+<h1 align="left">Josh Erskine - C# & Azure Cloud Engineer 👋</h1>
 
-###
+<p align="left">
+  <b>C# · .NET · Microsoft Azure · DevOps · AI Integration</b><br/>
+  Based in London 
+</p>
 
-<p align="left">I'm a passionate learner and Software Engineer based in London, working in fintech. Experienced in C# and .NET Core development.</p>
+---
 
-###
+## About
 
-<h2 align="left">About me</h2>
+Software engineer specialising in cloud-native development on Microsoft Azure.
+I build production-grade backend systems - REST APIs, event-driven pipelines,
+and multi-region infrastructure - with a focus on operational maturity and
+infrastructure as code.
 
-###
+Currently expanding into AI-integrated cloud architecture using Azure OpenAI
+Service, Azure AI Search, and Claude Code.
 
-<p align="left">📚 I'm currently learning:<br>- CI/CD Pipelines<br>- Typescript <br>- React</p>
+**AZ-900 certified · AZ-204 in progress · Targeting AZ-305**
 
-###
+---
 
-<h2 align="left">Recent Projects</h2>
+## Featured Projects
 
-###
+### ☁️ Azure E-Commerce Platform *(in progress)*
+> Cloud-native e-commerce backend · C# / .NET 8 · Microsoft Azure
 
-<p align="left">☁️ Azure E-Commerce Project<br>- A cloud-native e-commerce backend built on Microsoft Azure, developed as a portfolio project while studying for AZ-204.</p>
+A production-grade multi-service platform built as a portfolio project,
+covering the full cloud engineering stack:
 
-###
+- **REST API** - App Service, Cosmos DB, Azure SQL, Key Vault,
+  Managed Identity
+- **Event-driven pipeline** - Service Bus, Azure Functions, Blob Storage
+- **Observability** - Application Insights, API Management,
+  dead-letter queue handling
+- **Infrastructure as Code** - Terraform
 
-<h2 align="left">Stack:</h2>
+🔗 [Repository](https://github.com/JoshErskine/azure-ecommerce-platform)
+· [Live API / Swagger]()
 
-###
+---
+
+### 🌐 Multi-Region SaaS Platform *(in progress)*
+> Azure Front Door · Cosmos DB geo-replication · AAD B2C ·
+> Azure OpenAI · AI Search
+
+Multi-tenant SaaS architecture with global routing, disaster recovery
+documentation, and an AI integration layer — natural language product
+search and GPT-4o-powered content generation, built with Claude Code.
+
+🔗 [Repository]()
+
+---
+
+## Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" title="C#" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core" title=".NET Core" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" title="Microsoft Azure" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" title="Azure SQL / SQL Server" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform" title="Terraform / Bicep" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub Actions" title="GitHub Actions" />
   <img width="12" />
 </div>
 
-###
+&nbsp;
 
-<h2 align="left">Feel free to reach out!</h2>
+**Cloud:** Azure App Service · Cosmos DB · Azure SQL · Key Vault ·
+Service Bus · Azure Functions · Blob Storage · API Management ·
+Application Insights · Azure Front Door · Azure OpenAI · AI Search
 
-###
+**DevOps:** GitHub Actions · Bicep · CI/CD · Multi-environment pipelines
+
+**AI:** Azure OpenAI Service · Azure AI Search · Claude Code ·
+Prompt engineering
+
+---
+
+## Certifications
+
+| Certification | Status |
+|---|---|
+| AZ-900 Microsoft Azure Fundamentals | ✅ Certified |
+| AZ-204 Azure Developer Associate | 🔄 In progress |
+| AZ-305 Azure Solutions Architect Expert | 📅 Planned 2026 |
+
+---
+
+## Currently Building
+
+- 🤖 AI-integrated cloud architecture with Azure OpenAI and Claude Code
+- 🌏 Multi-region SaaS platform with geo-replication and DR planning
+- ⚙️ Production CI/CD pipelines with GitHub Actions and Bicep automation
+
+---
+
+## Let's Connect
+
+
 
 <div align="left">
-  <a href="www.linkedin.com/in/joshua-erskine" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/joshua-erskine" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
-  <a href="joshuaerskine0@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:joshuaerskine0@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Email" />
   </a>
 </div>
-
-###
