@@ -75,7 +75,7 @@ search and GPT-4o-powered content generation, built with Claude Code.
 Service Bus · Azure Functions · Blob Storage · API Management ·
 Application Insights · Azure Front Door · Azure OpenAI · AI Search
 
-**DevOps:** GitHub Actions · Bicep · CI/CD · Multi-environment pipelines
+**DevOps:** GitHub Actions · Terraform · CI/CD · Multi-environment pipelines
 
 **AI:** Azure OpenAI Service · Azure AI Search · Claude Code ·
 Prompt engineering
