@@ -36,7 +36,7 @@ covering the full cloud engineering stack:
 - **Infrastructure as Code** - Terraform
 
 🔗 [Repository](https://github.com/JoshErskine/azure-ecommerce-platform)
-· [Live API / Scalar](ecommerce-web-api-hxfxh2edbpg6dtfj.westeurope-01.azurewebsites.net)
+· [Live API / Scalar](https://ecommerce-web-api-hxfxh2edbpg6dtfj.westeurope-01.azurewebsites.net/scalar/v1)
 
 ---
 
