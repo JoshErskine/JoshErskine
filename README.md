@@ -1,7 +1,7 @@
 <h1 align="left">Josh Erskine - C# & Azure Cloud Engineer 👋</h1>
 
 <p align="left">
-  <b>C# · .NET · Microsoft Azure · DevOps · AI Integration</b><br/>
+  <b>C# · .NET · Microsoft Azure · DevOps · AI Engineering</b><br/>
 </p>
 
 ---
@@ -23,7 +23,7 @@ Service, Azure AI Search, and Claude Code.
 ## Featured Projects
 
 ### ☁️ Azure E-Commerce Platform *(in progress)*
-> Cloud-native e-commerce backend · C# / .NET 10 · Microsoft Azure
+> Cloud-native e-commerce backend · C# / .NET 10 · Microsoft Azure · Terraform
 
 A production-grade multi-service platform built as a portfolio project alongside my AZ-204 studies,
 covering the full cloud engineering stack:
@@ -36,7 +36,6 @@ covering the full cloud engineering stack:
 - **Infrastructure as Code** - Terraform
 
 🔗 [Repository](https://github.com/JoshErskine/azure-ecommerce-platform)
-· [Live API / Scalar](https://ecommerce-web-api-hxfxh2edbpg6dtfj.westeurope-01.azurewebsites.net/scalar/v1)
 
 ---
 
