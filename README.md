@@ -22,10 +22,10 @@ Service, Azure AI Search, and Claude Code.
 
 ## Featured Projects
 
-### ☁️ Azure E-Commerce Platform *(in progress)*
+### ☁️ Azure E-Commerce Platform
 > Cloud-native e-commerce backend · C# / .NET 10 · Microsoft Azure · Terraform
 
-A production-grade multi-service platform built as a portfolio project alongside my AZ-204 studies,
+A production-grade multi-service platform built as a project alongside my AZ-204 studies,
 covering the full cloud engineering stack:
 
 - **REST API** - App Service, Cosmos DB, Azure SQL, Key Vault,
