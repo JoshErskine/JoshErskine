@@ -1,20 +1,25 @@
-<h1 align="left">Josh Erskine - C# & Azure Cloud Engineer 👋</h1>
+<h1 align="left">Josh Erskine - Software Engineer, C# / Azure / AI 👋</h1>
 
 <p align="left">
-  <b>C# · .NET · Microsoft Azure · DevOps · AI Engineering</b><br/>
+  <b>C# · .NET · Microsoft Azure · AI Product Engineering · Agentic Workflows</b><br/>
 </p>
 
 ---
 
 ## About
 
-Software engineer specialising in cloud-native development on Microsoft Azure.
-I build production-grade backend systems - REST APIs, event-driven pipelines,
-and multi-region infrastructure - with a focus on operational maturity and
-infrastructure as code.
+Backend engineer building production features for a live fintech product -
+flow architecture, third-party integrations, real-time systems, and
+personalisation - with Azure cloud fundamentals (AZ-900, AZ-204, Terraform
+Associate) underpinning how I design and ship. Portfolio work extends that
+into full cloud-native builds and, increasingly, AI-integrated features.
 
-Currently expanding into AI-integrated cloud architecture using Azure OpenAI
-Service, Azure AI Search, and Claude Code.
+Currently tilting toward **AI application engineering** — building products
+that *use* AI (RAG, agents, generative features) — via Azure OpenAI Service,
+Azure AI Search, and hands-on work with Claude Code and local LLM tooling.
+
+I design **agentic systems that orchestrate the work itself** - a multi-stage pipeline (intent → spec → architecture → plan → build → ship) with gated human sign-off at every stage,
+state tracking, and enforced artifact discipline. 
 
 **AZ-900 certified · HashiCorp Certified: Terraform Associate (003) · AZ-204 certified**
 
@@ -39,15 +44,18 @@ covering the full cloud engineering stack:
 
 ---
 
-### 🌐 Multi-Region SaaS Platform *(in progress)*
-> Azure Front Door · Cosmos DB geo-replication · AAD B2C ·
-> Azure OpenAI · AI Search
+### 🎙️ Outspoken *(in progress)*
+> Windows dictation utility · C# / .NET 8 · local Whisper · LLM cleanup
 
-Multi-tenant SaaS architecture with global routing, disaster recovery
-documentation, and an AI integration layer — natural language product
-search and GPT-4o-powered content generation, built with Claude Code.
+A push-to-talk dictation tool built to replace a paid subscription: hotkey → local
+Whisper speech-to-text (voice never leaves the machine) → LLM cleanup pass →
+clean text at the cursor. No cloud STT, no telemetry, no word caps - privacy
+and latency are first-class design constraints. Built
+end-to-end through my own agentic orchestration pipeline (spec → ADRs →
+plan → build), from confirmed intent to public repo.
 
-🔗 [Repository]()
+
+🔗 [Repository](https://github.com/JoshErskine/outspoken)
 
 ---
 
@@ -72,12 +80,12 @@ search and GPT-4o-powered content generation, built with Claude Code.
 
 **Cloud:** Azure App Service · Cosmos DB · Azure SQL · Key Vault ·
 Service Bus · Azure Functions · Blob Storage · API Management ·
-Application Insights · Azure Front Door · Azure OpenAI · AI Search
+Application Insights · Azure OpenAI · AI Search
 
-**DevOps:** GitHub Actions · Terraform · CI/CD · Multi-environment pipelines
+**DevOps:** GitHub Actions · Terraform · CI/CD 
 
 **AI:** Azure OpenAI Service · Azure AI Search · Claude Code ·
-Prompt engineering
+Prompt engineering · Agentic pipeline design
 
 ---
 
@@ -88,15 +96,14 @@ Prompt engineering
 | [AZ-900 Microsoft Azure Fundamentals](https://learn.microsoft.com/en-gb/users/joshuaerskine-8816/credentials/cc4d3d20e6857fd1) | ✅ Certified |
 | [HashiCorp Certified: Terraform Associate (003)](https://www.credly.com/badges/20e3eb07-53dc-4f65-b924-77f253867fcf) | ✅ Certified |
 | [AZ-204 Azure Developer Associate](https://learn.microsoft.com/en-us/users/joshuaerskine-8816/credentials/certification/azure-developer?tab=credentials-tab) | ✅ Certified |
-| AZ-305 Azure Solutions Architect Expert | 📅 Planned 2026 |
+| AI-103 Azure AI Apps & Agents Developer | 🎯 In progress - targeting ~Q4 2026 |
 
 ---
 
 ## Currently Building
 
-- 🤖 AI-integrated cloud architecture with Azure OpenAI and Claude Code
-- 🌏 Multi-region SaaS platform with geo-replication and DR planning
-- ⚙️ Production CI/CD pipelines with GitHub Actions and Bicep automation
+- 🎙️ Outspoken - local-first Windows dictation tool (Whisper + LLM cleanup), building in public
+- 🎯 AI-103 (Azure AI Apps & Agents) - next certification, ~Q4 2026
 
 ---
 
