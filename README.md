@@ -14,8 +14,8 @@ personalisation - with Azure cloud fundamentals (AZ-900, AZ-204, Terraform
 Associate) underpinning how I design and ship. Portfolio work extends that
 into full cloud-native builds and, increasingly, AI-integrated features.
 
-Currently tilting toward **AI application engineering** — building products
-that *use* AI (RAG, agents, generative features) — via Azure OpenAI Service,
+Currently tilting toward **AI application engineering** - building products
+that *use* AI (RAG, agents, generative features) - via Azure OpenAI Service,
 Azure AI Search, and hands-on work with Claude Code and local LLM tooling.
 
 I design **agentic systems that orchestrate the work itself** - a multi-stage pipeline (intent → spec → architecture → plan → build → ship) with gated human sign-off at every stage,
