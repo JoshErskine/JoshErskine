@@ -96,15 +96,14 @@ Prompt engineering · Agentic pipeline design
 | [AZ-900 Microsoft Azure Fundamentals](https://learn.microsoft.com/en-gb/users/joshuaerskine-8816/credentials/cc4d3d20e6857fd1) | ✅ Certified |
 | [HashiCorp Certified: Terraform Associate (003)](https://www.credly.com/badges/20e3eb07-53dc-4f65-b924-77f253867fcf) | ✅ Certified |
 | [AZ-204 Azure Developer Associate](https://learn.microsoft.com/en-us/users/joshuaerskine-8816/credentials/certification/azure-developer?tab=credentials-tab) | ✅ Certified |
-| AI-103 Azure AI Apps & Agents Developer | 🎯 In progress - targeting ~Q4 2026 |
+| AI-103 Azure AI Apps & Agents Developer | 🎯 In progress  |
 
 ---
 
 ## Currently Building
 
 - 🎙️ Outspoken - local-first Windows dictation tool (Whisper + LLM cleanup), building in public
-- 🎯 AI-103 (Azure AI Apps & Agents) - next certification, ~Q4 2026
-
+- 🎯 AI-103 (Azure AI Apps & Agents) 
 ---
 
 ## Let's Connect
