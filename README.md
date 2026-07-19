@@ -91,7 +91,11 @@ Prompt engineering · Agentic pipeline design
 
 ## Certifications
 
+<div align="left">
 <img src="./Assets/azure-developer-associate-badge.png" alt="az204 badge" style="width: 130px;" />
+<img src="./Assets/azure-fundamentals-badge.png" alt="az900 badge" style="width: 130px;" />
+<img src="./Assets/terraform-associate-badge.png" alt="terraform badge" style="width: 130px;" />
+</div>
 
 | Certification | Status |
 |---|---|
