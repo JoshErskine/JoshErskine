@@ -91,6 +91,8 @@ Prompt engineering · Agentic pipeline design
 
 ## Certifications
 
+<img src="./Assets/azure-developer-associate-badge.png" alt="az204 badge" style="width: 130px;" />
+
 | Certification | Status |
 |---|---|
 | [AZ-900 Microsoft Azure Fundamentals](https://learn.microsoft.com/en-gb/users/joshuaerskine-8816/credentials/cc4d3d20e6857fd1) | ✅ Certified |
