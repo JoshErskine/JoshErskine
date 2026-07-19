@@ -97,6 +97,8 @@ Prompt engineering · Agentic pipeline design
 <img src="./Assets/terraform-associate-badge.png" alt="terraform badge" style="width: 130px;" />
 </div>
 
+&nbsp; 
+
 | Certification | Status |
 |---|---|
 | [AZ-900 Microsoft Azure Fundamentals](https://learn.microsoft.com/en-gb/users/joshuaerskine-8816/credentials/cc4d3d20e6857fd1) | ✅ Certified |
