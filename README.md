@@ -15,7 +15,7 @@ Associate) underpinning how I design and ship. Portfolio work extends that
 into full cloud-native builds and, increasingly, AI-integrated features.
 
 Currently tilting toward **AI application engineering** - building products
-that *use* AI (RAG, agents, generative features) - via Azure OpenAI Service,
+that use AI (RAG, agents, generative features) - via Azure OpenAI Service,
 Azure AI Search, and hands-on work with Claude Code and local LLM tooling.
 
 I design **agentic systems that orchestrate the work itself** - a multi-stage pipeline (intent → spec → architecture → plan → build → ship) with gated human sign-off at every stage,
@@ -48,8 +48,8 @@ covering the full cloud engineering stack:
 > Windows dictation utility · C# / .NET 8 · local Whisper · LLM cleanup
 
 A push-to-talk dictation tool built to replace a paid subscription: hotkey → local
-Whisper speech-to-text (voice never leaves the machine) → LLM cleanup pass →
-clean text at the cursor. No cloud STT, no telemetry, no word caps - privacy
+Whisper speech-to-text (voice never leaves the machine) → LLM cleanup →
+clean text at the cursor. Privacy
 and latency are first-class design constraints. Built
 end-to-end through my own agentic orchestration pipeline (spec → ADRs →
 plan → build), from confirmed intent to public repo.
@@ -91,7 +91,13 @@ Prompt engineering · Agentic pipeline design
 
 ## Certifications
 
+<div align="left">
 <img src="./Assets/azure-developer-associate-badge.png" alt="az204 badge" style="width: 130px;" />
+<img src="./Assets/azure-fundamentals-badge.png" alt="az900 badge" style="width: 130px;" />
+<img src="./Assets/terraform-associate-badge.png" alt="terraform badge" style="width: 130px;" />
+</div>
+
+&nbsp; 
 
 | Certification | Status |
 |---|---|
@@ -104,8 +110,8 @@ Prompt engineering · Agentic pipeline design
 
 ## Currently Building
 
-- 🎙️ Outspoken - local-first Windows dictation tool (Whisper + LLM cleanup), building in public
-- 🎯 AI-103 (Azure AI Apps & Agents) 
+- 🎙️ Outspoken - local-first Windows dictation tool (Whisper + LLM cleanup)
+- 🎯 Studying for AI-103 (Azure AI Apps & Agents) 
 ---
 
 ## Let's Connect
