@@ -18,8 +18,10 @@ Currently tilting toward **AI application engineering** - building products
 that use AI (RAG, agents, generative features) - via Azure OpenAI Service,
 Azure AI Search, and hands-on work with Claude Code and local LLM tooling.
 
-I design **agentic systems that orchestrate the work itself** - a multi-stage pipeline (intent → spec → architecture → plan → build → ship) with gated human sign-off at every stage,
-state tracking, and enforced artifact discipline. 
+I designed an **agentic system that orchestrate the work itself** - a multi-stage pipeline (intent → spec → architecture → plan → build → ship) with gated human sign-off at every stage,
+state tracking, and enforced artifact discipline. This workflow has become the basis for all personal projects. 
+
+🔗 [Repository](https://github.com/JoshErskine/agent-pipeline) 
 
 **AZ-900 certified · HashiCorp Certified: Terraform Associate (003) · AZ-204 certified**
 
