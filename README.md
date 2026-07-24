@@ -8,20 +8,18 @@
 
 ## About
 
-Backend engineer building production features for a live fintech product -
-flow architecture, third-party integrations, real-time systems, and
-personalisation - with Azure cloud fundamentals (AZ-900, AZ-204, Terraform
-Associate) underpinning how I design and ship. Portfolio work extends that
-into full cloud-native builds and, increasingly, AI-integrated features.
+Backend engineer shipping production features for a live fintech product -
+flow architecture, third-party integrations, and real-time systems in
+C#/.NET on Azure. Now tilting toward **AI application engineering**:
+building products that use AI (RAG, agents, generative features) with
+Azure OpenAI, Azure AI Search, and Claude Code.
 
-Currently tilting toward **AI application engineering** - building products
-that use AI (RAG, agents, generative features) - via Azure OpenAI Service,
-Azure AI Search, and hands-on work with Claude Code and local LLM tooling.
+I build my personal projects through an **agentic pipeline I designed
+myself** - a multi-stage orchestration system (intent → spec → architecture
+→ plan → build → ship) with gated human sign-off, state tracking, and
+enforced artifact discipline. 
 
-I designed an **agentic system that orchestrate the work itself** - a multi-stage pipeline (intent → spec → architecture → plan → build → ship) with gated human sign-off at every stage,
-state tracking, and enforced artifact discipline. This workflow has become the basis for all personal projects. 
-
-🔗 [Repository](https://github.com/JoshErskine/agent-pipeline) 
+🔗 [agent-pipeline](https://github.com/JoshErskine/agent-pipeline)
 
 **AZ-900 certified · HashiCorp Certified: Terraform Associate (003) · AZ-204 certified**
 
@@ -108,12 +106,6 @@ Prompt engineering · Agentic pipeline design
 | [AZ-204 Azure Developer Associate](https://learn.microsoft.com/en-us/users/joshuaerskine-8816/credentials/certification/azure-developer?tab=credentials-tab) | ✅ Certified |
 | AI-103 Azure AI Apps & Agents Developer | 🎯 In progress  |
 
----
-
-## Currently Building
-
-- 🎙️ Outspoken - local-first Windows dictation tool (Whisper + LLM cleanup)
-- 🎯 Studying for AI-103 (Azure AI Apps & Agents) 
 ---
 
 ## Let's Connect
