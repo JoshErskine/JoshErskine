@@ -44,7 +44,7 @@ covering the full cloud engineering stack:
 
 ---
 
-### 🎙️ Outspoken *(in progress)*
+### 🎙️ Outspoken 
 > Windows dictation utility · C# / .NET 8 · local Whisper · LLM cleanup
 
 A push-to-talk dictation tool built to replace a paid subscription: hotkey → local
